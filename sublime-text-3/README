@@ -1,6 +1,7 @@
 Symlink the individual files from "User" to "~/.config/sublime-text-3/Packages/User/"
 
 Install packages:
+- A File Icon: File icons in folder tree.
 - Ansible: Highlighting for Ansible files.
 - Generic Config: Highlighting for generic configuration files.
 - VBScript: Highlighting for VBS files.
